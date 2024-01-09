@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Muzammil Khan</h1>
-<h3 align="center">A passionate to become Ethical Hacker</h3>
+<h3 align="center">Passionate to become Ethical Hacker</h3>
 
 <img align="right" alt="Cyber Security" width="400" src="https://assets-v2.lottiefiles.com/a/f1e1a7d0-1d3d-11ee-91c5-27c399cace92/GFI1KJwTVS.gif">
 
