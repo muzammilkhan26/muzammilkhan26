@@ -3,6 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzammilkhan26&label=Profile%20views&color=0e75b6&style=flat" alt="muzammilkhan26" /> </p>
 
+<h3 align="left">TryHackMe Badge:</h3>
+<p align="left">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/muzammil.khan.png" alt="TryHackMe Badge" />
+</p>
+
 - 🌱 I’m currently learning **Ethical Hacking, Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/muzammilkhan26](https://github.com/muzammilkhan26)
