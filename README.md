@@ -5,7 +5,9 @@
 
 <h3 align="left">TryHackMe Badge:</h3>
 <p align="left">
+  <a href="https://tryhackme.com/p/muzammil.khan">
   <img src="https://tryhackme-badges.s3.amazonaws.com/muzammil.khan.png" alt="TryHackMe Badge" />
+  </a>
 </p>
 
 - 🌱 I’m currently learning **Ethical Hacking, Flutter**
