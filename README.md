@@ -1,31 +1,55 @@
-<h1 align="center">Hi 👋, I'm Muhammd Muzammil Khan</h1>
-<h3 align="center">A Passionate to become Ethical Hacker from Pakistan</h3>
+# 👋 Hey, I'm Muzammil
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muzammilkhan26&label=Profile%20views&color=0e75b6&style=flat" alt="muzammilkhan26" /> </p>
+💻 **Penetration Tester | Ethical Hacker | Cybersecurity Explorer**
 
-<h3 align="left">TryHackMe Badge:</h3>
-<p align="left">
-  <a href="https://tryhackme.com/p/muzammil.khan">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/muzammil.khan.png" alt="Your Image Badge" />
-  </a>
-</p>
+I'm passionate about breaking things (ethically) to make them stronger.  
+Currently deep into web app pentesting, exploit development, and learning how attackers really think.  
+Always experimenting, documenting, and improving my craft.
 
-- 🌱 I’m currently learning **Ethical Hacking**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/muzammilkhan26](https://github.com/muzammilkhan26)
+## ⚡ About Me
 
-- 💬 Ask me about **CyberSecurity, Programming**
+- 🧠 Passionate about **offensive security** and **ethical hacking**  
+- 🔍 Love exploring hidden bugs and logic flaws in real-world apps  
+- 🧩 Active on **TryHackMe** solving labs and capture-the-flag challenges  
+- 🛠️ Building small tools and scripts to automate recon & exploitation  
+- 🎯 Believer in “learning by doing” — no shortcuts in hacking
 
-- 📫 How to reach me **muzammil.khan92@hotmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammadmuzammilkhan92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadmuzammilkhan92" height="30" width="40" /></a>
-<a href="https://fb.com/muhammadmuzammilkhanattari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammadmuzammilkhanattari" height="30" width="40" /></a>
-<a href="https://instagram.com/muzammil.khan.26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muzammil.khan.26" height="30" width="40" /></a>
-</p>
+## 🧰 Tech Stack & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**Languages:** Python, Bash, JavaScript  
+**Tools I Live In:** Nmap, Burp Suite, Metasploit, Hydra, Wireshark, FFUF, SQLMap, John the Ripper  
+**OS Environments:** Kali Linux, Debian Ubuntu, Windows  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muzammilkhan26&show_icons=true&locale=en&layout=compact" alt="muzammilkhan26" /></p>
+---
+
+## 🚧 What I'm Working On
+
+- Web application and network penetration testing  
+- Automating recon workflows using Python and Bash  
+- Strengthening my skills in exploit dev and red team tactics  
+
+---
+
+## 🏆 A Few Highlights
+
+- Reported multiple vulnerabilities in live testing environments  
+- Completed **TryHackMe Jr Penetration Tester** and **CompTIA Pentest+ (Self-Study)**  
+- Conducted black-box testing for production web apps (under NDA)  
+- Always learning, never done.
+
+---
+
+## 🌐 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/muhammadmuzammilkhan92)  
+- 💻 [GitHub](https://github.com/muzammilkhan26)  
+- 🧠 [TryHackMe](https://tryhackme.com/r/p/mmuzammil.khan)  
+- 📧 [muzammil.khan92@hotmail.com](mailto:muzammil.khan92@hotmail.com)
+
+---
+
+> ⚔️ *Security isn’t a product — it’s a mindset.”*
